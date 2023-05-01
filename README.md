@@ -4,7 +4,7 @@ I'm a junior front-end developer with 1 year of experience in developing user-fr
 
 ## 🔭 What I'm currently working on
 
-I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using React andits components.
+I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using React and its components.
 
 ## 🌱 What I'm currently learning
 
