@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋  I'm Mako 👋
 
 I'm a junior front-end developer with 1 year of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript,  and its front-end framework such as React.
@@ -14,16 +16,18 @@ I'm always striving to learn new technologies and keep myself updated with the l
 
 Feel free to browse through my repositories and ask me if you have any questions regarding my porjects or need help.
 
+
 ### 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/mako-dolidze-1077b2244/
 
 
-
 ### 🤝 Let's collaborate
 If you have any project or task related to front-end development, feel free to contact me. I'm always open to new opportunities and collaborations.
 
-![html](/logos/html.png)
+
+
+![html](/logos/html.png) ![css](/logos.css-file.png) ![github](/logos.github.png) ![js](/logos.java-script.png) ![ts](logos/typescript.png) ![vs](logos/visual-studio.png)
 
 Thank you for visiting my GitHub profile. Looking forward to connecting with you! 🌟
 
