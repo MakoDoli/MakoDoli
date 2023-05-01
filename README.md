@@ -23,7 +23,7 @@ LinkedIn: https://www.linkedin.com/in/mako-dolidze-1077b2244/
 ### 🤝 Let's collaborate
 If you have any project or task related to front-end development, feel free to contact me. I'm always open to new opportunities and collaborations.
 
-!(./images/html.png)
+![html](./images/html.png)
 
 Thank you for visiting my GitHub profile. Looking forward to connecting with you! 🌟
 
