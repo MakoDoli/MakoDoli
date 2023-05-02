@@ -31,6 +31,14 @@ If you have any project or task related to front-end development, feel free to c
 
 Thank you for visiting my GitHub profile. Looking forward to connecting with you! 🌟
 
+```js
+const grateful = () => {
+    (finishedReading) console.log("Thank you for checking out our project! 🙏");
+
+};
+```
+
+
 
 
 
