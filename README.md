@@ -27,9 +27,9 @@ If you have any project or task related to front-end development, feel free to c
 
 
 
-![html](/logos/html.png)   ![css](/logos/css-file.png)   ![github](/logos/github.png)   ![react](/logos/atom.png)  ![js](/logos/java-script.png)   ![ts](logos/typescript.png)   ![vs](logos/visual-studio.png)  ![figma](/logos/figma.png) ![tailwind](/logos/tailwind.png)
+![html](/logos/html.png)   ![css](/logos/css-file.png)   ![github](/logos/github.png)   ![react](/logos/atom.png)  ![js](/logos/java-script.png)   ![ts](logos/typescript.png)   ![vs](logos/visual-studio.png)  ![figma](/logos/figma.png) ![tailwind](/logos/tailwind.png) ![tailwindbig](/logos/tailwind48.png)
 
-Thank you for visiting my GitHub profile. Looking forward to connecting with you! 🌟
+Thank you for visiting my GitHub profile. Looking forward to connect with you! 🌟
 
 
 
