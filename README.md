@@ -33,7 +33,7 @@ Thank you for visiting my GitHub profile. Looking forward to connect with you! ð
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MakoDoli)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=MakoDoli&color=yellow)
+![](https://komarev.com/ghpvc/?username=MakoDoli&color=yellow&label=Hello to all)
 
 
 
