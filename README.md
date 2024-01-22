@@ -29,11 +29,12 @@ If you have any project or task related to front-end development, feel free to c
 
 ![html](/logos/html.png)   ![css](/logos/css-file.png)   ![github](/logos/github.png)   ![react](/logos/atom.png)  ![js](/logos/java-script.png)   ![ts](logos/typescript.png)   ![vs](logos/visual-studio.png)  ![figma](/logos/figma.png)![tailwindbig](/logos/tailwindlit.png)
 
-Thank you for visiting my GitHub profile. Looking forward to connect with you! 🌟
+![](https://komarev.com/ghpvc/?username=MakoDoli&color=yellow&label=Hello+to+all) and thank you for visiting my GitHub profile. 
+Looking forward to connect with you! 🌟
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MakoDoli)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=MakoDoli&color=yellow&label=Hello+to+all)
+
 
 
 
