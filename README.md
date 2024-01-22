@@ -31,6 +31,8 @@ If you have any project or task related to front-end development, feel free to c
 
 Thank you for visiting my GitHub profile. Looking forward to connect with you! 🌟
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MakoDoli)](https://git.io/streak-stats)
+
 
 
 
