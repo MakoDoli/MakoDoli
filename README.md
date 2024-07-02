@@ -27,7 +27,7 @@ If you have any project or task related to front-end development, feel free to c
 
 
 
-![html](/logos/html.png)   ![css](/logos/css-file.png)   ![github](/logos/github.png)   ![react](/logos/atom.png)  ![js](/logos/java-script.png)   ![ts](logos/typescript.png)   ![vs](logos/visual-studio.png)  ![figma](/logos/figma.png)![tailwindbig](/logos/tailwindlit.png)
+![html](/logos/html.png)   ![css](/logos/css-file.png)   ![github](/logos/github.png)   ![react](/logos/atom.png)  ![js](/logos/java-script.png)   ![ts](logos/typescript.png)   ![vs](logos/visual-studio.png)  ![figma](/logos/figma.png)![tailwindbig](/logos/tailwindlit.png) ![nextjs](/logos/nextjs.png)
 
 ![](https://komarev.com/ghpvc/?username=MakoDoli&color=yellow&label=Hello+to+all)  Thank you for visiting my GitHub profile. 
 Looking forward to connect with you! 🌟
