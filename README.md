@@ -2,11 +2,11 @@
 
 ### Hi there 👋  I'm Mako 👋
 
-I'm a junior front-end developer with 1 year of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript,  and its front-end library such as React.
+I'm a  Front-end developer with 2 year of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript,  and its front-end library such as React.
 
 ## 🔭 What I'm currently working on
 
-I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using React and its components.
+I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using Reactjs, Nextjs and RESTful API.
 
 ## 🌱 What I'm currently learning
 
@@ -19,7 +19,7 @@ Feel free to browse through my repositories and ask me if you have any questions
 
 ### 📫 How to reach me
 
-LinkedIn: https://www.linkedin.com/in/mako-dolidze-1077b2244/
+LinkedIn: https://www.linkedin.com/in/mako-dolidze/
 
 
 ### 🤝 Let's collaborate
