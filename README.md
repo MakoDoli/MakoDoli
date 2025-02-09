@@ -2,7 +2,7 @@
 
 ### Hi there 👋  I'm Mako 👋
 
-I'm a  Front-end developer with 2 years of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript,  and its front-end library such as React.
+I'm a  Front-end developer with 2 years of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript, React, Nextjs.
 
 ## 🔭 What I'm currently working on
 
@@ -10,7 +10,7 @@ I'm currently working on colaborative project, where I'm developing my team-work
 
 ## 🌱 What I'm currently learning
 
-I'm always striving to learn new technologies and keep myself updated with the latest trends in the front-end development world. Currently, I'm learning React ⚛️ and its hooks🎣 , which will help me to enhance my skills and improve the performance of the web applications that I develop.
+I'm always striving to learn new technologies and keep myself updated with the latest trends in the front-end development world. Currently, I'm learning SEO 🔎 , which will help me to enhance my skills and improve the performance of the web applications that I develop.
 
 ### 💬 Ask me
 
