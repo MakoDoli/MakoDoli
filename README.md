@@ -2,11 +2,11 @@
 
 ### Hi there 👋  I'm Mako 👋
 
-I'm a  Front-end developer with 2 years of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript, React, Nextjs.
+I'm a  Front-end developer with 3 years of experience in developing user-friendly, responsive, and interactive web applications. I have expertise in HTML, CSS, JavaScript, React, Nextjs.
 
 ## 🔭 What I'm currently working on
 
-I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using Reactjs, Nextjs and RESTful API.
+I'm currently working on colaborative project, where I'm developing my team-working skills. The application is built using Reactjs, Nextjs and RESTful APIs.
 
 ## 🌱 What I'm currently learning
 
